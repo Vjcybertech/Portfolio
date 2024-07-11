@@ -70,7 +70,7 @@ nav li a:hover::after{
 .header-text{
     margin-top: 20%;
     font-size: 30px;
-    
+    transition: 2sec;
 }
 .header-text p{
      position: relative;
