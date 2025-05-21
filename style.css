@@ -507,9 +507,16 @@ nav .fa-solid{
                grid-template-columns: 1fr;
             }
 
-             .work img, .layer {
-               width: 100%;
+             
+             .work img, .work-list {
+               width: 500px;
+               height: 900px;
             }
+
+            .layer{
+                width: 100%;
+            }
+
 
             .contact-left, .contact-right {
                   flex-basis: 100%;
