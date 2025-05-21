@@ -481,8 +481,9 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px){
          body{
-            background-image: url('image/images (3).jpeg');
+            background-image: url('image/ales-nesetril-Im7lZjxeLhg-unsplash.jpg');
              overflow-x: hidden;
+             background-size:100% 100% ;
             }
 
              img {
