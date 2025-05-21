@@ -497,7 +497,9 @@ nav .fa-solid{
                 align-items: center;
             }
 
-
+            .about-col-1 img{
+                border-radius:170px;
+            }
 
             .about-col-2 {
               flex-basis: 100%;
