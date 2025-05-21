@@ -188,8 +188,9 @@ div1 img{
 }
 
 .about-col-1 img{
+    
     width: 100%;
-    border-radius: 15px;
+    border-radius: 170px;
     animation: image1;
     animation-timeline: view();
 }
